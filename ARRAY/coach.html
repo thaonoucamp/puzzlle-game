@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tim gia tri nho nhat</title>
+</head>
+<body>
+<script>
+    let arr = [-3,5,3,2,10];
+    let max = arr[0];
+    let index = 0;
+
+        for (let i = 1; i < arr.length; i++) {
+            if(arr[i]>max) {
+                max = arr[i];
+                index = i;
+            }
+        }
+     document.write("max :" + max + " tai vi tri :" + index);
+
+</script>
+</body>
+</html>

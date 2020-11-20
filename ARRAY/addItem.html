@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>them phan tu vao giua mang</title>
+</head>
+<body>
+<script>
+    let array = [9, 12, 5, -8, 6, 11];
+    index = [3];
+    value = 4;
+    size = arr.length;
+    displayArray(arr,size);
+    let xIndex = prompt("nhap vi tri");
+    let xValue = prompt("nhap gia tri");
+
+    function insertValue(array,size,index,value,) {
+
+        document.write(array);
+        for (let i = size-1; i <= index; i--) {
+            array[i + 1] = array[i];
+        }
+        array[index] = 4;
+        size++;
+        document.write(array);
+    }
+    insertValue();
+
+</script>
+</body>
+</html>

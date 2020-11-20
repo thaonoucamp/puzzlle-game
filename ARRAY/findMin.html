@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>find Min </title>
+</head>
+<body>
+<script>
+    let arr = new Array(9,5,2,19,6);
+    size    = arr.length;
+    displayArray(arr,size);
+    let xIndex = prompt("nhap vi tri");
+    let xValue = prompt("nhap gia tri");
+
+    // document.write("gia tri nho nhat la:"+findMinValue(arr,size));
+    // document.write("gia tri lon nhat la:"+findMaxValue(arr,size));
+    // document.write("mang moi la"+ newArray);
+    //
+    // function inputArray(arr,size) {
+    //     for (let i = 0; i < size; i++) {
+    //    arr[i]= +prompt("Enter a item" +i);
+    //     }
+    // }
+    function displayArray(arr,size) {
+        for (let i = 0; i < size; i++) {
+            document.write(arr[i]+" ");
+        }
+    }
+    // function findFirstValue(arr,size,xNumber) {
+    //     for (let i = 0; i < size; i++) {
+    //         if(arr[i]===xNumber) {
+    //             return i;
+    //         }
+    //     }
+    //     return -1;
+    // }
+    // function findMinValue(arr,size) {
+    //     let min = arr[0];
+    //     for (let i = 0; i < size; i++) {
+    //         if(min>arr[i]) {
+    //             min=arr[i];
+    //         }
+    //     }
+    //     return min;
+    // }
+    // function findMaxValue(arr,size) {
+    //     let max = arr[0];
+    //     for (let i = 0; i < size; i++) {
+    //         if(max<arr[i]) {
+    //             max = arr[i];
+    //         }
+    //     }
+    //     return max;
+    // }
+    // findMinValue(arr,size);
+</script>
+</body>
+</html>
