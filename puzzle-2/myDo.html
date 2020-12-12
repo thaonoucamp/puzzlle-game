@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div>
+<img src="monkey/monkey1.PNG" alt="monkey1" id="m1" onclick="change1(1)" height="162" width="615"/><br>
+<img src="monkey/monkey2.PNG" alt="monkey2" id="m2" onclick="change2(1)" height="158" width="608"/><br>
+<img src="monkey/monkey3.PNG" alt="monkey3" id="m3" onclick="change3(1)" height="159" width="606"/><br>
+<img src="monkey/monkey4.PNG" alt="monkey4" id="m4" onclick="change4(1)" height="156" width="607"/><br>
+<img src="monkey/monkey5.PNG" alt="monkey5" id="m5" onclick="change5(1)" height="159" width="615"/>
+</div>
+</body>
+<script>
+    let num1 = 0;
+    // value == onclick;
+    // Moi lan click value += 1;
+    // Value % cho tong so anh == 3;
+    function change1(value) {
+        num1 += value;
+        if (num1 % 3 == 1) {
+            document.getElementById("m1").src = "monkey/monkey1.PNG";
+        }
+        if (num1 % 3 == 2) {
+            document.getElementById("m1").src = "cat/cat1.PNG";
+        }
+        if (num1 % 3 == 0) {
+            document.getElementById("m1").src = "panda/pan1.PNG";
+        }
+        check();
+    }
+    let num2 = 0;
+    function change2(value) {
+        num2 += value;
+        if (num2 % 3 == 1) {
+            document.getElementById("m2").src = "monkey/monkey2.PNG";
+        }
+        if (num2 % 3 == 2) {
+            document.getElementById("m2").src = "cat/cat2.PNG";
+        }
+        if (num2 % 3 == 0) {
+            document.getElementById("m3").src = "panda/pan2.PNG";
+        }
+        check();
+    }
+    let num3 = 0;
+    function change3(value) {
+        num3 += value;
+        if (num3 % 3 == 1) {
+            document.getElementById("m3").src = "monkey/monkey3.PNG";
+        }
+        if (num3 % 3 == 2) {
+            document.getElementById("m3").src = "cat/cat3.PNG";
+        }
+        if (num3 % 3 == 0) {
+            document.getElementById("m3").src = "panda/pan3.PNG";
+        }
+        check();
+    }
+    let num4 = 0;
+    function change4(value) {
+        num4 += value;
+        if (num4 % 3 == 1) {
+            document.getElementById("m4").src = "monkey/monkey4.PNG";
+        }
+        if (num4 % 3 == 2) {
+            document.getElementById("m4").src = "cat/cat4.PNG";
+        }
+        if (num4 % 3 == 0) {
+            document.getElementById("m4").src = "panda/pan4.PNG";
+        }
+        check();
+    }
+    let num5 = 0;
+    function change5(value) {
+        num5 += value;
+        if (num5 % 3 == 1) {
+            document.getElementById("m5").src = "monkey/monkey5.PNG";
+        }
+        if (num5 % 3 == 2) {
+            document.getElementById("m5").src = "cat/cat5.PNG";
+        }
+        if (num5 % 3 == 0) {
+            document.getElementById("m5").src = "panda/pan5.PNG";
+        }
+        check();
+    }
+    function check() {
+        let check1 = num1 % 3;
+        let check2 = num2 % 3;
+        let check3 = num3 % 3;
+        let check4 = num4 % 3;
+        let check5 = num5 % 3;
+        if ((check1 == check2) && (check2 == check3) && (check3 == check4) && (check4 == check5)) {
+           setTimeout(function (){ alert("YOU WINNER ..!")},100);
+        }
+    }
+</script>
+</html>

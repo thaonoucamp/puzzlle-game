@@ -2,76 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5ab2b55-6d75-409a-bbe3-eecf3a3e87a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/bai_tap_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array-pro/tam-giac-sao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Date_OOP/Date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Date_OOP/Date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Date_OOP/Rectangle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Date_OOP/circle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Date_OOP/demo_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FlashLamp/Battery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FlashLamp/FlashLamp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/pracatice_Date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/CAT - RAT.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/Cat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/Rat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addProduct/addProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addProduct/all_product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addProduct/deleteProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addProduct/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addProduct/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../addProduct/editProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-/bai-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-/bai-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-/bai-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-/bai-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkAge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkMin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkMod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkZero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/danh-gia-hoc-luc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calculator-3/calculator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy/ControlProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../checkDayByMonth/checkDayByMonth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../conditionnal-3/changedTemperture.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../conditionnal-3/phuong-trinh-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../d-y-l-me/d-y-l-m.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../do-you-love-me/do-you-love-me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../function1/calFunction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../function1/checkPrime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../function1/convertTemperture.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../function1/feet-meters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../function1/searchMinValueArr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../function1/sumArr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mobile/iphone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mobile/mobile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice2Array/bai-tap-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/circle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/factorial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/return-true/checkMin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/return-true/false.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/square.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-module-1/bai test 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-module-1/bai test 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-module-1/bai test 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-module-1/bai test 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myDo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ARRAY/addItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/addItem.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ARRAY/coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/coach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai-tap-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/bai_tap_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/bai_tap_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array-pro/tam-giac-sao.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array-pro/tam-giac-sao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date_OOP/Date.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Date_OOP/Date.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date_OOP/Date.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Date_OOP/Date.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date_OOP/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Date_OOP/Rectangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date_OOP/circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Date_OOP/circle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date_OOP/demo_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Date_OOP/demo_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashLamp/Battery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashLamp/Battery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashLamp/FlashLamp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashLamp/FlashLamp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/pracatice_Date.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/pracatice_Date.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_RAT_CAT/CAT - RAT.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/CAT - RAT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_RAT_CAT/Cat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/Cat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_RAT_CAT/Rat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/Rat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addProduct/addProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/addProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addProduct/all_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/all_product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addProduct/deleteProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/deleteProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addProduct/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addProduct/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addProduct/editProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../addProduct/editProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-/bai-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-/bai-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-/bai-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-/bai-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-/bai-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-/bai-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-/bai-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-/bai-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkAge.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkAge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkMin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkMin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkMod.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkMod.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkZero.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/checkZero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai-tap-dieu-kien/danh-gia-hoc-luc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bai-tap-dieu-kien/danh-gia-hoc-luc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator-3/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-3/calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casestudy/Control Product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casestudy/ControlProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/../casestudy/ControlProduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casestudy/Product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casestudy/addProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkDayByMonth/checkDayByMonth.html" beforeDir="false" afterPath="$PROJECT_DIR$/../checkDayByMonth/checkDayByMonth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionnal-3/changedTemperture.html" beforeDir="false" afterPath="$PROJECT_DIR$/../conditionnal-3/changedTemperture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditionnal-3/phuong-trinh-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../conditionnal-3/phuong-trinh-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d-y-l-me/d-y-l-m.html" beforeDir="false" afterPath="$PROJECT_DIR$/../d-y-l-me/d-y-l-m.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../do-you-love-me/do-you-love-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/../do-you-love-me/do-you-love-me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function1/calFunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/calFunction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function1/checkPrime.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/checkPrime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function1/convertTemperture.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/convertTemperture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function1/feet-meters.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/feet-meters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function1/searchMinValueArr.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/searchMinValueArr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function1/sumArr.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/sumArr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile/iphone.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile/iphone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile/mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice2Array/bai-tap-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practice2Array/bai-tap-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction-2/circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction-2/circle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction-2/factorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction-2/factorial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction-2/return-true/checkMin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction-2/return-true/checkMin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction-2/return-true/false.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction-2/return-true/false.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction/bai-tap-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction/bai-tap-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction/bai-tap-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction/bai-tap-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practiceFunction/bai-tap-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-module-1/bai test 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../test-module-1/bai test 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-module-1/bai test 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../test-module-1/bai test 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-module-1/bai test 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../test-module-1/bai test 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-module-1/bai test 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../test-module-1/bai test 4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +102,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/puzzule.html" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -113,7 +117,7 @@
       <workItem from="1607589115685" duration="4351000" />
       <workItem from="1607651738706" duration="56000" />
       <workItem from="1607674629521" duration="3567000" />
-      <workItem from="1607735855142" duration="6935000" />
+      <workItem from="1607735855142" duration="12392000" />
     </task>
     <servers />
   </component>
