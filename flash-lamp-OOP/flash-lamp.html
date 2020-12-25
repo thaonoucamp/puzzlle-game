@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="batterry.js"></script>
+</head>
+<body>
+<script>
+    class Lamp {
+        constructor(battery) {
+            this._status = true;
+            this._battery = battery;
+        }
+
+        get battery() {
+            return this._battery;
+        }
+
+        set battery(value) {
+            this._battery = value;
+        }
+
+        get status() {
+            return this._status;
+        }
+
+        set status(value) {
+            this._status = value;
+        }
+        turnOn() {
+            if (this._status && this._battery._energy > 0) {
+                this._battery._energy--;
+                return this._status + 'Den da bat sang';
+            }
+        }
+        turnOff() {
+            if (this._battery < 0 || this._status === false) {
+                return 'Da tat den';
+            }
+        }
+    }
+    let lamp = new Lamp(pin);
+    function checkPin() {
+        let i = 0;
+        while (i < 10) {
+            lamp.turnOn();
+            lamp.turnOff();
+            i++;
+        }
+        return lamp.battery.energy;
+    }
+   let a = checkPin();
+    console.log(a);
+
+</script>
+</body>
+</html>
